@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class Inventario {
 
     private List<Vehiculo> vehiculolist = new ArrayList<>();
@@ -27,6 +28,5 @@ public class Inventario {
         notificarVehiculos();
 
     }
-
 
 }

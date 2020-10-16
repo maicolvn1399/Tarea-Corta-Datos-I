@@ -1,5 +1,7 @@
 public class Vehiculo {
 
+
+
     private String name;
     private Inventario inventario = new Inventario();
 
@@ -15,6 +17,7 @@ public class Vehiculo {
         inventario = inv;
 
     }
+
 
 
 }
